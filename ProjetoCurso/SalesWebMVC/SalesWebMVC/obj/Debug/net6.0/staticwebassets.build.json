@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+48z9kU86ue09BDb2Rl0VyX1JT4E5TW2mFreLcty5WE=",
+  "Hash": "B1/t0UkoU7+W7AbkbpJIv/kBD3ljKkWStqMEVSNboTg=",
   "Source": "SalesWebMVC",
   "BasePath": "_content/SalesWebMVC",
   "Mode": "Default",
@@ -644,6 +644,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Vapor.css",
+      "SourceId": "SalesWebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\wwwroot\\",
+      "BasePath": "_content/SalesWebMVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-Vapor.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Vapor.css"
     },
     {
       "Identity": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
