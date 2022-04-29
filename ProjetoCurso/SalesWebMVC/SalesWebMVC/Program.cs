@@ -4,10 +4,11 @@ using SalesWebMVC.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<SalesWebMVCContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SalesWebMVCContext") ?? throw new InvalidOperationException("Connection string 'SalesWebMVCContext' not found.")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SalesWebMVCContext"), b => b.MigrationsAssembly("SalesWebMVC")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 
 var app = builder.Build();
 
