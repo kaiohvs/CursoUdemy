@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bz1fXVFJI/yFazhnclbB9Jj+pRnKZtZHSv/ni8IDvfWC6cWFh1liC8WiZxF0vxw5Ea+tmOqud1evgt9OrfVJxQ==",
+  "dgSpecHash": "DgociLhhCuluZAlqwhpS3/QV3pCPBzIJZkkZnvZDwao1mVe9us62Dh8hfylGWDiKaTu8M3qPPcXRJz9F9iYZJw==",
   "success": true,
-  "projectFilePath": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\temp\\Udemy-Proejto\\CursoUdemy\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaio.santos_creditas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kaio.santos_creditas\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

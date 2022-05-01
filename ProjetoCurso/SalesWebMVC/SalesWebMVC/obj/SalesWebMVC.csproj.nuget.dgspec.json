@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\temp\\Udemy-Proejto\\CursoUdemy\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\temp\\Udemy-Proejto\\CursoUdemy\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\temp\\Udemy-Proejto\\CursoUdemy\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectPath": "C:\\temp\\Udemy-Proejto\\CursoUdemy\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\kaio.santos_creditas\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\Curso-Udemy-Asp-net\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "outputPath": "C:\\temp\\Udemy-Proejto\\CursoUdemy\\ProjetoCurso\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
